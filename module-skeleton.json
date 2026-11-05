@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-reputation-management-dart-mobile",
+  "capabilityKey": "liberusoftware/module-crm-reputation-management",
+  "presentation": "dart-mobile",
+  "package": "module_crm_reputation_management_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/crm/nextjs/reputation-management.md",
+  "presentationPlan": "projects/crm/features/reputation-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
